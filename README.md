@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Solace](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=Solace&theme=react)](https://github.com/Selyss/Solace)
-
+[![chtsht](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=chtsht&theme=react)](https://github.com/Selyss/chtsht)
 
 ## 📈 &nbsp;My GitHub History!
 <a href="https://github.com/Selyss">

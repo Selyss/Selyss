@@ -1,7 +1,8 @@
 ## Hi there 👋
+
+[![mind.nvim](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=mind.nvim&theme=react)](https://github.com/Selyss/mind.nvim)
 [![Solace](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=Solace&theme=react)](https://github.com/Selyss/Solace)
 [![chtsht](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=chtsht&theme=react)](https://github.com/Selyss/chtsht)
-[![mind.nvim](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=mind.nvim&theme=react)](https://github.com/Selyss/mind.nvim)
 
 ## 📈 &nbsp;My GitHub History!
 <a href="https://github.com/Selyss">

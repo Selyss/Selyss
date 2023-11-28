@@ -2,7 +2,8 @@
 
 [![mind.nvim](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=mind.nvim&theme=react)](https://github.com/Selyss/mind.nvim)
 [![Solace](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=Solace&theme=react)](https://github.com/Selyss/Solace)
-[![chtsht](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=chtsht&theme=react)](https://github.com/Selyss/chtsht)
+[![AssemBuddy](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=AssemBuddy&theme=react)](https://github.com/Selyss/AssemBuddy)
+[![GistSnip](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=GistSnip&theme=react)](https://github.com/Selyss/GistSnip)
 
 ## 📈 &nbsp;My GitHub History!
 <a href="https://github.com/Selyss">

@@ -5,7 +5,7 @@
 [![AssemBuddy](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=AssemBuddy&theme=react)](https://github.com/Selyss/AssemBuddy)
 [![editor-config](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=editor-config&theme=react)](https://github.com/Selyss/editor-config)
 
-## GitHub History!
+## GitHub History
 <a href="https://github.com/Selyss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Selyss&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selyss&theme=react&layout=compact" />
